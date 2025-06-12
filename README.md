@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipu004&label=Profile%20views&color=0e75b6&style=flat" alt="dipu004" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **NEXT!JS**
 
 - 💬 Ask me about **Web-Development**
 

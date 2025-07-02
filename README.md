@@ -21,7 +21,10 @@
 <a href="https://instagram.com/https://www.instagram.com/mddipu774/profilecard/?igsh=dwxjamvkdwr4chq3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mddipu774/profilecard/?igsh=dwxjamvkdwr4chq3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠️ Technologies & Tools I Use</h3>
+<h3 align="left" style="display: flex; align-items: center; gap: 8px; font-weight: 600;">
+  🛠️ Technologies & Tools I Use
+  <span style="font-size: 20px; color: #555;">&#x25BC;</span>
+</h3>
 
 <table>
   <tr>
